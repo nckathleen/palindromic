@@ -35,16 +35,12 @@ Letter casing and punctuation do not matter when testing a palindrome. All of th
 * A man, a plan, a cat, a ham, a yak, a yam, a hat, a canal: Panama!
 * Doc, note, I dissent. A fast never prevents a fatness. I diet on cod.
 
-## Hard Mode
+## Hard Mode (not yet complete)
 
 Make both an iterative and recursive version of your palindrome test function.
-
-## Notes
-
-You may want to use the `re.sub` function to strip out punctuation and spaces. A regular expression you can use to match all space and punctuation is `r'[^A-Za-z]'`.
 
 ## Additional Resources
 
 * [Palindrome list](http://www.palindromelist.net/).
-* [String type in Python](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str).
+* [String type in Python] (https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str).
 * [Regular expression operations](https://docs.python.org/3/library/re.html).
